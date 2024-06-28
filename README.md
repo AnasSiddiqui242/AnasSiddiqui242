@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **JS**
 
-- 👨‍💻 All of my projects are available at [https://github.com/AnasSiddiqui242/AnasSiiddiqui242.git](https://github.com/AnasSiddiqui242/AnasSiiddiqui242.git)
+- 👨‍💻 All of my projects are available at [https://github.com/AnasSiddiqui242](https://github.com/AnasSiddiqui242)
 
 - 📫 How to reach me **muhammadanassiddiqui16@gmail.com**
 
